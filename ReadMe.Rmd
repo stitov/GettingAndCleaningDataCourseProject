@@ -1,0 +1,11 @@
+The "run_analasys.R" script does the following:
+
+1. Reading all data for next manipulations from working directory, suggests the raw files unzipped directory "UCI HAR Dataset" exists in working directory. You can download the raw file using link "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
+
+2. Adding columns "subject", "ActivityId" and "ActivityLabel" to raw sets and store it in variables "testset"" and "trainset" appropriately.
+
+3. Merges the training and the test sets, create one data set and names it.
+
+4. Extracts only the measurements on the mean and standard deviation for each measurement by "grep" function. 
+
+5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject, store it in variable "tidyRes" and save it.
