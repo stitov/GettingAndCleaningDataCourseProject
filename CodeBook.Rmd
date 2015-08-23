@@ -1,115 +1,115 @@
-1 subject
-    Number of group of 30 volunteers within an age bracket of 19-48 years
-    1
-    2
-    3
-    4
-    5
-    6
-    7
-    8
-    9
-    10
-    11
-    12
-    13
-    14
-    15
-    16
-    17
-    18
-    19
-    20
-    21
-    22
-    23
-    24
-    25
-    26
-    27
-    28
-    29
-    30
-2 activityId
-    Activities Id
-    1
-    2
-    3
-    4
-    5
-    6
-3 activityLabel
-    Activity Label
-    WALKING
-    WALKING_UPSTAIRS
-    WALKING_DOWNSTAIRS
-    SITTING
-    STANDING
-    LAYING
+1 subject  
+&nbsp;&nbsp;&nbsp;&nbsp;Number of group of 30 volunteers within an age bracket of 19-48 years  
+&nbsp;&nbsp;&nbsp;&nbsp;1  
+&nbsp;&nbsp;&nbsp;&nbsp;2  
+&nbsp;&nbsp;&nbsp;&nbsp;3  
+&nbsp;&nbsp;&nbsp;&nbsp;4  
+&nbsp;&nbsp;&nbsp;&nbsp;5  
+&nbsp;&nbsp;&nbsp;&nbsp;6  
+&nbsp;&nbsp;&nbsp;&nbsp;7  
+&nbsp;&nbsp;&nbsp;&nbsp;8  
+&nbsp;&nbsp;&nbsp;&nbsp;9  
+&nbsp;&nbsp;&nbsp;&nbsp;10  
+&nbsp;&nbsp;&nbsp;&nbsp;11  
+&nbsp;&nbsp;&nbsp;&nbsp;12  
+&nbsp;&nbsp;&nbsp;&nbsp;13  
+&nbsp;&nbsp;&nbsp;&nbsp;14  
+&nbsp;&nbsp;&nbsp;&nbsp;15  
+&nbsp;&nbsp;&nbsp;&nbsp;16  
+&nbsp;&nbsp;&nbsp;&nbsp;17  
+&nbsp;&nbsp;&nbsp;&nbsp;18  
+&nbsp;&nbsp;&nbsp;&nbsp;19  
+&nbsp;&nbsp;&nbsp;&nbsp;20  
+&nbsp;&nbsp;&nbsp;&nbsp;21  
+&nbsp;&nbsp;&nbsp;&nbsp;22  
+&nbsp;&nbsp;&nbsp;&nbsp;23  
+&nbsp;&nbsp;&nbsp;&nbsp;24  
+&nbsp;&nbsp;&nbsp;&nbsp;25  
+&nbsp;&nbsp;&nbsp;&nbsp;26  
+&nbsp;&nbsp;&nbsp;&nbsp;27  
+&nbsp;&nbsp;&nbsp;&nbsp;28  
+&nbsp;&nbsp;&nbsp;&nbsp;29  
+&nbsp;&nbsp;&nbsp;&nbsp;30  
+2 activityId  
+&nbsp;&nbsp;&nbsp;&nbsp;Activities Id  
+&nbsp;&nbsp;&nbsp;&nbsp;1  
+&nbsp;&nbsp;&nbsp;&nbsp;2  
+&nbsp;&nbsp;&nbsp;&nbsp;3  
+&nbsp;&nbsp;&nbsp;&nbsp;4  
+&nbsp;&nbsp;&nbsp;&nbsp;5  
+&nbsp;&nbsp;&nbsp;&nbsp;6  
+3 activityLabel  
+&nbsp;&nbsp;&nbsp;&nbsp;Activity Label  
+&nbsp;&nbsp;&nbsp;&nbsp;WALKING  
+&nbsp;&nbsp;&nbsp;&nbsp;WALKING_UPSTAIRS  
+&nbsp;&nbsp;&nbsp;&nbsp;WALKING_DOWNSTAIRS  
+&nbsp;&nbsp;&nbsp;&nbsp;SITTING  
+&nbsp;&nbsp;&nbsp;&nbsp;STANDING  
+&nbsp;&nbsp;&nbsp;&nbsp;LAYING  
 # variables 4-69: average value for each activity and each subject  
-4 tBodyAcc-mean()-X
-5 tBodyAcc-mean()-Y
-6 tBodyAcc-mean()-Z
-7 tBodyAcc-std()-X
-8 tBodyAcc-std()-Y
-9 tBodyAcc-std()-Z
-10 tGravityAcc-mean()-X
-11 tGravityAcc-mean()-Y
-12 tGravityAcc-mean()-Z
-13 tGravityAcc-std()-X
-14 tGravityAcc-std()-Y
-15 tGravityAcc-std()-Z
-16 tBodyAccJerk-mean()-X
-17 tBodyAccJerk-mean()-Y
-18 tBodyAccJerk-mean()-Z
-19 tBodyAccJerk-std()-X
-20 tBodyAccJerk-std()-Y
-21 tBodyAccJerk-std()-Z
-22 tBodyGyro-mean()-X
-23 tBodyGyro-mean()-Y
-24 tBodyGyro-mean()-Z
-25 tBodyGyro-std()-X
-26 tBodyGyro-std()-Y
-27 tBodyGyro-std()-Z
-28 tBodyGyroJerk-mean()-X
-29 tBodyGyroJerk-mean()-Y
-30 tBodyGyroJerk-mean()-Z
-31 tBodyGyroJerk-std()-X
-32 tBodyGyroJerk-std()-Y
-33 tBodyGyroJerk-std()-Z
-34 tBodyAccMag-mean()
-35 tBodyAccMag-std()
-36 tGravityAccMag-mean()
-37 tGravityAccMag-std()
-38 tBodyAccJerkMag-mean()
-39 tBodyAccJerkMag-std()
-40 tBodyGyroMag-mean()
-41 tBodyGyroMag-std()
-42 tBodyGyroJerkMag-mean()
-43 tBodyGyroJerkMag-std()
-44 fBodyAcc-mean()-X
-45 fBodyAcc-mean()-Y
-46 fBodyAcc-mean()-Z
-47 fBodyAcc-std()-X
-48 fBodyAcc-std()-Y
-49 fBodyAcc-std()-Z
-50 fBodyAccJerk-mean()-X
-51 fBodyAccJerk-mean()-Y
-52 fBodyAccJerk-mean()-Z
-53 fBodyAccJerk-std()-X
-54 fBodyAccJerk-std()-Y
-55 fBodyAccJerk-std()-Z
-56 fBodyGyro-mean()-X
-57 fBodyGyro-mean()-Y
-58 fBodyGyro-mean()-Z
-59 fBodyGyro-std()-X
-60 fBodyGyro-std()-Y
-61 fBodyGyro-std()-Z
-62 fBodyAccMag-mean()
-63 fBodyAccMag-std()
-64 fBodyBodyAccJerkMag-mean()
-65 fBodyBodyAccJerkMag-std()
-66 fBodyBodyGyroMag-mean()
-67 fBodyBodyGyroMag-std()
-68 fBodyBodyGyroJerkMag-mean()
-69 fBodyBodyGyroJerkMag-std()
+4 tBodyAcc-mean()-X  
+5 tBodyAcc-mean()-Y  
+6 tBodyAcc-mean()-Z  
+7 tBodyAcc-std()-X  
+8 tBodyAcc-std()-Y  
+9 tBodyAcc-std()-Z  
+10 tGravityAcc-mean()-X  
+11 tGravityAcc-mean()-Y  
+12 tGravityAcc-mean()-Z  
+13 tGravityAcc-std()-X  
+14 tGravityAcc-std()-Y  
+15 tGravityAcc-std()-Z  
+16 tBodyAccJerk-mean()-X  
+17 tBodyAccJerk-mean()-Y  
+18 tBodyAccJerk-mean()-Z  
+19 tBodyAccJerk-std()-X  
+20 tBodyAccJerk-std()-Y  
+21 tBodyAccJerk-std()-Z  
+22 tBodyGyro-mean()-X  
+23 tBodyGyro-mean()-Y  
+24 tBodyGyro-mean()-Z  
+25 tBodyGyro-std()-X  
+26 tBodyGyro-std()-Y  
+27 tBodyGyro-std()-Z  
+28 tBodyGyroJerk-mean()-X  
+29 tBodyGyroJerk-mean()-Y  
+30 tBodyGyroJerk-mean()-Z  
+31 tBodyGyroJerk-std()-X  
+32 tBodyGyroJerk-std()-Y  
+33 tBodyGyroJerk-std()-Z  
+34 tBodyAccMag-mean()  
+35 tBodyAccMag-std()  
+36 tGravityAccMag-mean()  
+37 tGravityAccMag-std()  
+38 tBodyAccJerkMag-mean()  
+39 tBodyAccJerkMag-std()  
+40 tBodyGyroMag-mean()  
+41 tBodyGyroMag-std()  
+42 tBodyGyroJerkMag-mean()  
+43 tBodyGyroJerkMag-std()  
+44 fBodyAcc-mean()-X  
+45 fBodyAcc-mean()-Y  
+46 fBodyAcc-mean()-Z  
+47 fBodyAcc-std()-X  
+48 fBodyAcc-std()-Y  
+49 fBodyAcc-std()-Z  
+50 fBodyAccJerk-mean()-X  
+51 fBodyAccJerk-mean()-Y  
+52 fBodyAccJerk-mean()-Z  
+53 fBodyAccJerk-std()-X  
+54 fBodyAccJerk-std()-Y  
+55 fBodyAccJerk-std()-Z  
+56 fBodyGyro-mean()-X  
+57 fBodyGyro-mean()-Y  
+58 fBodyGyro-mean()-Z  
+59 fBodyGyro-std()-X  
+60 fBodyGyro-std()-Y  
+61 fBodyGyro-std()-Z  
+62 fBodyAccMag-mean()  
+63 fBodyAccMag-std()  
+64 fBodyBodyAccJerkMag-mean()  
+65 fBodyBodyAccJerkMag-std()  
+66 fBodyBodyGyroMag-mean()  
+67 fBodyBodyGyroMag-std()  
+68 fBodyBodyGyroJerkMag-mean()  
+69 fBodyBodyGyroJerkMag-std()  
