@@ -46,7 +46,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;SITTING  
 &nbsp;&nbsp;&nbsp;&nbsp;STANDING  
 &nbsp;&nbsp;&nbsp;&nbsp;LAYING  
-# variables 4-69: average value for each activity and each subject  
+## variables 4-69: average value for each activity and each subject  
 4 tBodyAcc-mean()-X  
 5 tBodyAcc-mean()-Y  
 6 tBodyAcc-mean()-Z  
